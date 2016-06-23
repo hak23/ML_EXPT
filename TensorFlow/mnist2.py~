@@ -104,3 +104,31 @@ for i in range(20000):
 # Accuracy on test set
 test_accuracy = accuracy.eval(feed_dict={x:mnist.test.images, y_actual:mnist.test.labels})
 print("Accuracy on test set: %f", test_accuracy)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
